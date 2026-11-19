@@ -1,8 +1,5 @@
 # HTML Ödev 3
 
-Patika Frontend eğitimi kapsamında yapılan HTML ödevidir.
+HTML ve CSS kullanılarak hazırlanmış basit bir yemek tarifi sayfası çalışması.
 
-🔗 **Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-3/)
-
-## Kullanılan Teknolojiler
-- HTML5
+**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-3/)
