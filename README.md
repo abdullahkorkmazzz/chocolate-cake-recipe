@@ -1,5 +1,5 @@
-# HTML Ödev 3
+# Chocolate Cake Recipe Page
 
-HTML ve CSS kullanılarak hazırlanmış basit bir yemek tarifi sayfası çalışması.
+A simple recipe webpage featuring ingredients and preparation steps built with HTML and CSS.
 
-**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-3/)
+- **Live Demo:** [View Live Project](https://abdullahkorkmazzz.github.io/chocolate-cake-recipe/)
