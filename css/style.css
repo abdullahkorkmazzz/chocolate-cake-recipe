@@ -16,10 +16,6 @@
     color: blue;
 }
 
-.darkblue {
-    color: darkblue;
-}
-
 .orange {
     color: orange;
 }
@@ -36,20 +32,11 @@
     color: deeppink;
 }
 
-.deepskyblue {
-    color: deepskyblue;
-}
-
-.cyan {
-    color: cyan;
-}
-
 .darkmagenta {
     color: darkmagenta;
 }
 
-/***************************** font family ********************************/
-
-.sans-serif {
+/******************************** body *****************************/
+body {
     font-family: sans-serif;
 }
